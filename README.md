@@ -2,7 +2,7 @@
 
 Informatics Engineer alumnus at <a href='https://www.widyatama.ac.id/'>Widyatama University</a>. Full-stack Web Developer from Bandung, Indonesia 🇮🇩
 
-- 🔭 I’m currently working on **Laravel** Project
+- 🔭 I’m currently working on **Laravel** and **Go** Project
 - 🌱 I’m currently learning **JS Framework** & **Tailwind**
 - 👨‍💻 Interest to UI design at **Figma**
 - 👯 I’m looking to collaborate on **Open Source** and/or **Web Apps** projects
